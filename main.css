@@ -1,0 +1,22 @@
+html {
+    font-size: 23px;
+}
+
+body   {
+    background-color: rgb(198, 245, 228);
+    color: rgb(0, 0, 6);
+    background-image: url("../02/mg1/sidral-mundet-duXda-PL4C8-unsplash.jpg");
+}
+a :visited {
+    color: rgb(237, 8, 8);
+}
+a :hover, a :active {
+    color: rgb(181, 34, 29);
+}
+
+table, tr, th, td, caption {
+    border: 2px solid #161616;
+    font-family: 1px 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
